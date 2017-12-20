@@ -1,0 +1,8 @@
+<log>userok</log>
+<pass>userboll</pass>
+<lvl>1</lvl>
+<exp>1</exp>
+<nickname>userok</nickname>
+<peace>stormgrad</peace>
+proff fishing
+<lvlF>1</lvlF>

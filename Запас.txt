@@ -1,0 +1,8 @@
+<log>admin</log>
+<pass>adminpass</pass>
+<lvl>1</lvl>
+<exp>1</exp>
+<nickname>Gimli</nickname>
+<peace>stormgrad</peace>
+proff fishing
+<lvlF>1</lvlF>
